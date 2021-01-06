@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-06T18:42:09 PKT" name="Default suite" finished-at="2021-01-06T18:43:26 PKT" duration-ms="76681">
+    <groups>
+    </groups>
+    <test started-at="2021-01-06T18:42:09 PKT" name="Default test" finished-at="2021-01-06T18:43:26 PKT" duration-ms="76681">
+      <class name="TestCases.CloudWays">
+        <test-method is-config="true" signature="TestInit()[pri:0, instance:TestCases.CloudWays@6f27a732]" started-at="2021-01-06T18:42:09 PKT" name="TestInit" finished-at="2021-01-06T18:42:19 PKT" duration-ms="9345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestInit -->
+        <test-method signature="CreateNewTeamMember()[pri:0, instance:TestCases.CloudWays@6f27a732]" started-at="2021-01-06T18:42:19 PKT" name="CreateNewTeamMember" finished-at="2021-01-06T18:43:26 PKT" duration-ms="67267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewTeamMember -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.CloudWays@6f27a732]" started-at="2021-01-06T18:43:26 PKT" name="TearDown" finished-at="2021-01-06T18:43:26 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCases.CloudWays -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
